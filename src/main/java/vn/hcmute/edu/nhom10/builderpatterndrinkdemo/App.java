@@ -585,8 +585,4 @@ public class App extends Application {
         st.setToY(1.0);
         st.play();
     }
-
-    public static void main(String[] args) {
-        launch(args);
-    }
 }

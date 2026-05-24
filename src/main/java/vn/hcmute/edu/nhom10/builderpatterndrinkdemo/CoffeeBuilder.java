@@ -5,7 +5,7 @@ public class CoffeeBuilder implements DrinkBuilder {
 
     public CoffeeBuilder() {
         drink = new Drink();
-        drink.setName("C\u00e0 ph\u00ea");
+        drink.setName("Cà phê");
     }
 
     @Override

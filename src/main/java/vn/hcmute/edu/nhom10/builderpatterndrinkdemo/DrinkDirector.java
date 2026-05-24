@@ -6,9 +6,9 @@ public class DrinkDirector {
                 .setSize("L")
                 .setSugar(50)
                 .setIce(70)
-                .addTopping("Tr\u00e2n ch\u00e2u \u0111en")
-                .addTopping("Th\u1ea1ch ph\u00f4 mai")
-                .setNote("\u00cdt ng\u1ecdt")
+                .addTopping("Trân châu đen")
+                .addTopping("Thạch phô mai")
+                .setNote("Ít ngọt")
                 .build();
     }
 
@@ -17,7 +17,7 @@ public class DrinkDirector {
                 .setSize("M")
                 .setSugar(30)
                 .setIce(50)
-                .setNote("\u0110\u1eadm v\u1ecb c\u00e0 ph\u00ea")
+                .setNote("Đậm vị cà phê")
                 .build();
     }
 }

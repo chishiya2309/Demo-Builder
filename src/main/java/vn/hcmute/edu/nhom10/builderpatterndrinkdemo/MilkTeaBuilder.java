@@ -6,7 +6,7 @@ public class MilkTeaBuilder implements DrinkBuilder {
 
     public MilkTeaBuilder() {
         drink = new Drink();
-        drink.setName("Tr\u00e0 s\u1eefa");
+        drink.setName("Trà sữa");
     }
 
     @Override
